@@ -1,6 +1,9 @@
-import "./App.css";
+import "bootstrap/dist/css/bootsrap.css";
 function App() {
-  return <h1 className="beautiful">HEllo Wold</h1>;
+  return (
+    <>
+      <h1>Hello World</h1>
+    </>
+  );
 }
-
 export default App;
