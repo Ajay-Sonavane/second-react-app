@@ -1,4 +1,6 @@
-import "bootstrap/dist/css/bootsrap.css";
+// import "./App.css";
+import "bootstrap/dist/css/bootstrap.css";
+
 function App() {
   return (
     <>
@@ -6,4 +8,5 @@ function App() {
     </>
   );
 }
+
 export default App;
